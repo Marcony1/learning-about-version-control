@@ -1,2 +1,3 @@
-# learning-about-version-control
-MDS Repository
+# Learning about Version Control
+
+Author: Marco Polo Bravo Montiel
